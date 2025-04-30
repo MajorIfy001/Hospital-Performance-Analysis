@@ -16,7 +16,7 @@ This Power BI dashboard project  presents an analysis of hospital performance ba
 - Step 6 : Varoius measures were created using DAX expressions to aid analysis such as "Patients", "Doctors", "Nurses", "Departments", "Total Amount", "Appointments", "Bills", etc.
 - Step  7: In the report view, under the view tab, theme was selected.
 - Step 8 : Multiple card visuals were added to the canvas repersenting the measures created in step 6.
-- Step 9 : Page 1 of the dashboard shows an overview of the distribution of the infected files and attack types while page 2 shows an overview of the severity distribution
+- Step 9 : Page 1 of the dashboard shows an overview of the distribution of the patients and workforce while page 2 shows an overview of the bills and appointments distribution
 - Step 10 : Various charts and graphs were added to the canvas; each used to visualise a set of the analysis. 
 
 ## 📊 Key Metrics Tracked
